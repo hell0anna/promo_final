@@ -1,0 +1,10 @@
+{
+  "description": "Create web pages that precisely match design specifications using a robust design system and components, streamlining the development process for designers and developers.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
